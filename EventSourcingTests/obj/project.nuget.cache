@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "mOj81KFT74y/YkLV+4JyG1ZOXOxpBcG08TjXJWvPEa8Y74OElKZUPSpZcpInnJgY1tHSN9po5Wd19+DY/UNLBg==",
+  "success": true,
+  "projectFilePath": "/Users/gustavfauser/RiderProjects/EventSourcingTests/EventSourcingTests/EventSourcingTests.csproj",
+  "expectedPackageFiles": [
+    "/Users/gustavfauser/.nuget/packages/eventstore.client.grpc/23.2.1/eventstore.client.grpc.23.2.1.nupkg.sha512",
+    "/Users/gustavfauser/.nuget/packages/eventstore.client.grpc.streams/23.2.1/eventstore.client.grpc.streams.23.2.1.nupkg.sha512",
+    "/Users/gustavfauser/.nuget/packages/google.protobuf/3.25.1/google.protobuf.3.25.1.nupkg.sha512",
+    "/Users/gustavfauser/.nuget/packages/grpc.core.api/2.60.0/grpc.core.api.2.60.0.nupkg.sha512",
+    "/Users/gustavfauser/.nuget/packages/grpc.net.client/2.60.0/grpc.net.client.2.60.0.nupkg.sha512",
+    "/Users/gustavfauser/.nuget/packages/grpc.net.common/2.60.0/grpc.net.common.2.60.0.nupkg.sha512",
+    "/Users/gustavfauser/.nuget/packages/microsoft.bcl.asyncinterfaces/6.0.0/microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
+    "/Users/gustavfauser/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.0/microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "/Users/gustavfauser/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/gustavfauser/.nuget/packages/microsoft.extensions.logging/8.0.0/microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "/Users/gustavfauser/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "/Users/gustavfauser/.nuget/packages/microsoft.extensions.options/8.0.0/microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "/Users/gustavfauser/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "/Users/gustavfauser/.nuget/packages/system.linq.async/6.0.1/system.linq.async.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

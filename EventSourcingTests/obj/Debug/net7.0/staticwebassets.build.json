@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "OWE7F9ILdeauBbgdaJDe9E5FJXhVlo1AZLncD1/aAIA=",
+  "Source": "EventSourcingTests",
+  "BasePath": "_content/EventSourcingTests",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
