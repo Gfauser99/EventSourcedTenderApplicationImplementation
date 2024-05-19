@@ -133,10 +133,6 @@ public class Program
         
         await documentCommandService.DeleteDocument("Admin1", 1, TenderAggregateId, DocumentAggregateId2,
             "NewDocument6.txt");
-        await Task.Delay(5000); 
-        // await documentCommandService.UploadDocument("Admin1", 1, TenderAggregateId, DocumentAggregateId1, "NewDocument3.txt"
-        // ,"This is the contents of my file");
-
 
         var options = new JsonSerializerOptions
         {
